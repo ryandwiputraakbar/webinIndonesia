@@ -1,12 +1,11 @@
 	<!-- CONTENT -->
-
 	<!-- ======= Hero Section ======= -->
 	<section id="hero" class="d-flex align-items-center">
 
 		<div class="container">
 			<div class="row gy-4">
 				<div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-					<h1>Selamat Datang di WEBIN TANGSEL</h1>
+					<h1>Selamat Datang di WEBIN INDONESIA</h1>
 					<h2>Ciptakan website profesional, modern <br>& user friendly sesuai yang kamu inginkan, bersama WEBIN</h2>
 					<div>
 						<a href="#about" class="btn-get-started scrollto">Mulai</a>
